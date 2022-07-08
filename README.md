@@ -303,10 +303,15 @@ Resolución
 
 Parte 1
 
+https://youtu.be/e1GrucHC_6A 
+
 Parte 2
+
+https://youtu.be/piztjLZ1QVU
 
 Parte 3
 
+https://youtu.be/f87Cx2SW4R8
 
 5. CONCLUSIONES 
 
