@@ -291,7 +291,12 @@ Resolución
 SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/105255508/177921510-057af183-9bca-4e4c-b3bd-3ae9da64dca3.png)
+
 Resolución
+
+R= No hay Voltaje inducido, ya que el campo  magnético no cambia 
  
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
