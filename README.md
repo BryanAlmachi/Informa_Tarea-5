@@ -1,4 +1,4 @@
-# Informa_Tarea-5
+# Informe_Tarea-5
 
 1. OBJETIVO
 
