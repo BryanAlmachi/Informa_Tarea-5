@@ -9,6 +9,26 @@ Objetivos Especificos
 
 2. MARCO TEORICO 
 
+![image](https://user-images.githubusercontent.com/105255508/177916637-2e9fbc7b-63d0-4576-a360-2c5b011b8a35.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916684-f9cf1b43-c460-44b7-93df-e1a40494b3cd.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916728-84e239bb-9440-44cd-974a-cc6ce6754d4c.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916745-093657a4-82a5-4c1d-b44f-63417357c9de.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916783-1438c276-136c-458e-bd71-c18f3e6ecd1d.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916815-f7bacb25-5614-4357-802a-eb9a8c517146.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916872-fb8b2f6a-32b3-4a1e-bba1-a3e6fc4a85ea.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916919-8d6792a8-738f-4900-8fec-832e0607147d.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177916953-18c9c7a1-0554-40fb-ae03-a407827fc5dc.png)
+
+![image](https://user-images.githubusercontent.com/105255508/177917021-d774a0f4-bb09-4787-98f7-aaed34287185.png)
+
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
 CAPITULO 9 
