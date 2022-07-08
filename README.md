@@ -2,10 +2,17 @@
 
 1. OBJETIVO
 
-Objetivo General
+   Objetivo General
 
+   •	Comprender y analizar los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 9 y 10, dado que es importante utilizar los métodos de la corriente en ramas, el análisis de lazos y nodos para determinar cantidades desconocidas sin olvidar la importancia de los principios de un campo magnético y electromagnetismo
 
-Objetivos Especificos 
+   Objetivos Especificos 
+
+   •	Describir las características más importantes de los métodos de la corriente en ramas y utilizar el análisis de lazos y nodos para poder determinar cantidades desconocidas en un circuito.
+   
+   •	Conocer los conceptos sobre los principios de un campo magnético y electromagnetismo para así poder analizar el principio de inducción electromagnética para saber cuáles soy sus aplicaciones.
+
+   •	Aplicar los conocimientos adquiridos en el capítulo 9 y 10 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en practica lo aprendido sobre los métodos de la corriente en rama, análisis de lazos, nodos y los principios de campo magnético y electromagnetismo.
 
 2. MARCO TEORICO 
 
@@ -294,8 +301,25 @@ Resolución
 
 4. VIDEO 
 
+Parte 1
+
+Parte 2
+
+Parte 3
+
 
 5. CONCLUSIONES 
 
+•	Por tanto, se puede decir que el método de la corriente en ramas se aplica las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos es importante decir que un lazo es una trayectoria completa para la corriente que circula en un circuito 
+
+•	En relación con lo antes expuesto, es importante mencionar que las ecuaciones simultaneas pueden ser resueltas por sustitución, u otro método sin olvidar que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
+
+•	Para resumir, el método de la corriente en ramas, y la corriente en lazo está basada en las leyes del voltaje y de la corriente de Kirchhoff y el método del voltaje en nodos esta basado en la ley de la corriente de Kirchhoff.
+
+•	Para sintetizar, es importante conocer que los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro y cuando hay corriente a través de un conductor, se produce un campo electromagnético alrededor del conductor.
+
+•	Por tanto, se puede decir que cuando un conductor se mueve adentro de un campo magnético, o cuando un campo magnético se mueve con respecto a un conductor, se induce un voltaje entre los extremos del conductor y mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande es el voltaje inducido.
 
 6. BIBLIOGRAFIA 
+
+Floyd TL. Principios de Circuitos Eléctricos. Octava Edición. Published online 2007:1-968. Accessed May 16, 2022. www.pearsoneducacion.net/floyd
